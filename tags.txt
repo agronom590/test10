@@ -1,0 +1,4 @@
+target1: ['tag32', 'tag42', 'tag43', 'tag49', 'tag58', 'tag63', 'tag66', 'tag67', 'tag75', 'tag76']
+target2: ['tag10', 'tag24', 'tag31', 'tag42', 'tag47', 'tag49', 'tag58', 'tag64', 'tag66', 'tag67']
+target3: ['tag8', 'tag13', 'tag24', 'tag42', 'tag47', 'tag49', 'tag58', 'tag59', 'tag66', 'tag67']
+target4: ['tag1', 'tag17', 'tag29', 'tag33', 'tag42', 'tag53', 'tag55', 'tag58', 'tag59', 'tag63']
